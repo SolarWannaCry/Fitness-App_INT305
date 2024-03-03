@@ -11,6 +11,8 @@ Fitness App is a comprehensive solution designed to help users track their worko
 - **Nutrition Guidance**: Access meal plans, recipes, and dietary preferences tailored to your fitness goals.
 - **Progress Monitoring**: Visualize your achievements with dynamic charts displaying your weight goals, personal records, and workout consistency.
 - **Community Support**: Engage with a supportive fitness community for motivation and advice.
+![APP](./slide1.jpg)
+![APP](./slide2.jpg)
 
 ## Getting Started
 
